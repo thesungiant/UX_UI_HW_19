@@ -27,6 +27,11 @@ html, body {
   padding: 0;
 }
 
+a {
+  text-decoration: none;
+  color: black;
+}
+
 h1, h2, p {
   margin: 0;
   padding: 0;
